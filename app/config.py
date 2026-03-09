@@ -10,7 +10,11 @@ class Settings(BaseSettings):
     arcgis_services: str = "https://services7.arcgis.com/xNUwUjOJqYE54USz/ArcGIS/rest/services"
     h3_resolution: int = 8
     claude_api_key: str = ""
-    cors_origins: list[str] = ["http://localhost:3000", "http://127.0.0.1:3000"]
+    cors_origins: list[str] = [
+        "http://localhost:3000",
+        "http://127.0.0.1:3000",
+        "https://urban-yield-ai-frontend.pages.dev",
+    ]
 
     @property
     def arcgis_catalog_url(self) -> str:
