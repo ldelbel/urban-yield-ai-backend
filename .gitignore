@@ -1,0 +1,24 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Data files (raw downloads + cache)
+data/enrichment_cache.json
+montgomery_zillow.json
+montgomery_gmaps.json
+gmaps_*.json
+
+# OS
+.DS_Store

@@ -1,0 +1,10 @@
+[project]
+name = "urban-yield-ai-backend"
+version = "0.1.0"
+description = "Urban Yield AI — FastAPI backend with H3 hexagonal indexing"
+requires-python = ">=3.11"
+
+[tool.uvicorn]
+app = "app.main:app"
+reload = true
+port = 8000
