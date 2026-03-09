@@ -14,8 +14,7 @@ build/
 .venv/
 venv/
 
-# Data files (raw downloads + cache)
-data/enrichment_cache.json
+# Data files (raw downloads — do not commit)
 montgomery_zillow.json
 montgomery_gmaps.json
 gmaps_*.json

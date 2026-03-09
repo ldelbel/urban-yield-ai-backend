@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: urban-yield-ai-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: BRIGHTDATA_API_TOKEN
+        sync: false
+      - key: BRIGHTDATA_SSE_URL
+        sync: false
+    healthCheckPath: /health

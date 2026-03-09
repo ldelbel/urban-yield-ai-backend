@@ -1,0 +1,2895 @@
+{
+  "8844ec6a45fffff": {
+    "zillow_avg_price_sqft": 121.82,
+    "zillow_days_on_market": 28.3,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec798dfffff": {
+    "zillow_avg_price_sqft": 76.05,
+    "zillow_days_on_market": 42.5,
+    "zillow_price_reduction_count": 5
+  },
+  "8844eeb41dfffff": {
+    "zillow_avg_price_sqft": 154.59,
+    "zillow_days_on_market": 107.5,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4e1fffff": {
+    "zillow_avg_price_sqft": 154.97,
+    "zillow_days_on_market": 3.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 14,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79c1fffff": {
+    "zillow_avg_price_sqft": 58.46,
+    "zillow_days_on_market": 122.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 1.55,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79c5fffff": {
+    "zillow_avg_price_sqft": 87.67,
+    "zillow_days_on_market": 25.3,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 34,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79b9fffff": {
+    "zillow_avg_price_sqft": 124.85,
+    "zillow_days_on_market": 60.2,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 69,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79a1fffff": {
+    "zillow_avg_price_sqft": 89.4,
+    "zillow_days_on_market": 5.7,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.175,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79e7fffff": {
+    "zillow_avg_price_sqft": 58.19,
+    "zillow_days_on_market": 96.6,
+    "zillow_price_reduction_count": 5
+  },
+  "8844eeb69bfffff": {
+    "zillow_avg_price_sqft": 113.92,
+    "zillow_days_on_market": 78.3,
+    "zillow_price_reduction_count": 7
+  },
+  "8844eeb6d7fffff": {
+    "zillow_avg_price_sqft": 114.01,
+    "zillow_days_on_market": 181.5,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec6b2dfffff": {
+    "zillow_avg_price_sqft": 108.42,
+    "zillow_days_on_market": 71.3,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb407fffff": {
+    "zillow_avg_price_sqft": 148.95,
+    "zillow_days_on_market": 40.4,
+    "zillow_price_reduction_count": 4
+  },
+  "8844ec45e9fffff": {
+    "zillow_avg_price_sqft": 160.39,
+    "zillow_days_on_market": 9.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec7937fffff": {
+    "zillow_avg_price_sqft": 93.61,
+    "zillow_days_on_market": 65.5,
+    "zillow_price_reduction_count": 4
+  },
+  "8844eeb6a9fffff": {
+    "zillow_avg_price_sqft": 133.09,
+    "zillow_days_on_market": 124.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb463fffff": {
+    "zillow_avg_price_sqft": 160.42,
+    "zillow_days_on_market": 56.8,
+    "zillow_price_reduction_count": 5
+  },
+  "8844eeb685fffff": {
+    "zillow_avg_price_sqft": 166.24,
+    "zillow_days_on_market": 7.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 16,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b07fffff": {
+    "zillow_avg_price_sqft": 103.84,
+    "zillow_days_on_market": 67.9,
+    "zillow_price_reduction_count": 10
+  },
+  "8844eeb4a5fffff": {
+    "zillow_avg_price_sqft": 137.74,
+    "zillow_days_on_market": 59.0,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb403fffff": {
+    "zillow_avg_price_sqft": 138.94,
+    "zillow_days_on_market": 108.2,
+    "zillow_price_reduction_count": 7
+  },
+  "8844ec7931fffff": {
+    "zillow_avg_price_sqft": 88.48,
+    "zillow_days_on_market": 10.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844eeb4c3fffff": {
+    "zillow_avg_price_sqft": 116.82,
+    "zillow_days_on_market": 77.0,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb5ddfffff": {
+    "zillow_avg_price_sqft": 151.56,
+    "zillow_days_on_market": 29.5,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 3.1,
+    "gmaps_review_count": 22,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79c7fffff": {
+    "zillow_avg_price_sqft": 60.04,
+    "zillow_days_on_market": 66.8,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4e5fffff": {
+    "zillow_avg_price_sqft": 147.35,
+    "zillow_days_on_market": 19.4,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb405fffff": {
+    "zillow_avg_price_sqft": 135.64,
+    "zillow_days_on_market": 43.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.85,
+    "gmaps_review_count": 177,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb69dfffff": {
+    "zillow_avg_price_sqft": 93.57,
+    "zillow_days_on_market": 109.7,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 78,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7991fffff": {
+    "zillow_avg_price_sqft": 97.52,
+    "zillow_days_on_market": 115.4,
+    "zillow_price_reduction_count": 7,
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 44,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb443fffff": {
+    "zillow_avg_price_sqft": 185.26,
+    "zillow_days_on_market": 170.3,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb431fffff": {
+    "zillow_avg_price_sqft": 174.69,
+    "zillow_days_on_market": 150.2,
+    "zillow_price_reduction_count": 5
+  },
+  "8844ec4d91fffff": {
+    "zillow_avg_price_sqft": 115.74,
+    "zillow_days_on_market": 108.5,
+    "zillow_price_reduction_count": 4
+  },
+  "8844eeb485fffff": {
+    "zillow_avg_price_sqft": 143.48,
+    "zillow_days_on_market": 18.2,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb467fffff": {
+    "zillow_avg_price_sqft": 150.21,
+    "zillow_days_on_market": 97.3,
+    "zillow_price_reduction_count": 4
+  },
+  "8844eeb4c9fffff": {
+    "zillow_avg_price_sqft": 127.25,
+    "zillow_days_on_market": 99.9,
+    "zillow_price_reduction_count": 9
+  },
+  "8844eeb58dfffff": {
+    "zillow_avg_price_sqft": 145.83,
+    "zillow_days_on_market": 65.8,
+    "zillow_price_reduction_count": 4
+  },
+  "8844ec79a9fffff": {
+    "zillow_avg_price_sqft": 114.59,
+    "zillow_days_on_market": 72.7,
+    "zillow_price_reduction_count": 5
+  },
+  "8844ec6b45fffff": {
+    "zillow_avg_price_sqft": 82.15,
+    "zillow_days_on_market": 81.8,
+    "zillow_price_reduction_count": 6
+  },
+  "8844eeb437fffff": {
+    "zillow_avg_price_sqft": 158.87,
+    "zillow_days_on_market": 100.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 2.25,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec798bfffff": {
+    "zillow_avg_price_sqft": 84.3,
+    "zillow_days_on_market": 84.0,
+    "zillow_price_reduction_count": 8,
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 24,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b6dfffff": {
+    "zillow_avg_price_sqft": 111.36,
+    "zillow_days_on_market": 128.0,
+    "zillow_price_reduction_count": 2
+  },
+  "8844ec6b1bfffff": {
+    "zillow_avg_price_sqft": 58.28,
+    "zillow_days_on_market": 99.4,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b61fffff": {
+    "zillow_avg_price_sqft": 100.33,
+    "zillow_days_on_market": 86.3,
+    "zillow_price_reduction_count": 7,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78a5fffff": {
+    "zillow_avg_price_sqft": 29.97,
+    "zillow_days_on_market": 94.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b43fffff": {
+    "zillow_avg_price_sqft": 91.31,
+    "zillow_days_on_market": 86.4,
+    "zillow_price_reduction_count": 4
+  },
+  "8844ec6b19fffff": {
+    "zillow_avg_price_sqft": 55.51,
+    "zillow_days_on_market": 74.2,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.1,
+    "gmaps_review_count": 7,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb421fffff": {
+    "zillow_avg_price_sqft": 141.25,
+    "zillow_days_on_market": 354.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec684dfffff": {
+    "zillow_avg_price_sqft": 57.07,
+    "zillow_days_on_market": 33.8,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.942,
+    "gmaps_review_count": 16,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7985fffff": {
+    "zillow_avg_price_sqft": 154.82,
+    "zillow_days_on_market": 202.1,
+    "zillow_price_reduction_count": 6
+  },
+  "8844eeb6e3fffff": {
+    "zillow_avg_price_sqft": 130.49,
+    "zillow_days_on_market": 282.2,
+    "zillow_price_reduction_count": 4
+  },
+  "8844ec6b01fffff": {
+    "zillow_avg_price_sqft": 95.44,
+    "zillow_days_on_market": 135.3,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 31,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4b5fffff": {
+    "zillow_avg_price_sqft": 131.02,
+    "zillow_days_on_market": 1.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb619fffff": {
+    "zillow_avg_price_sqft": 76.92,
+    "zillow_days_on_market": 283.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec79d5fffff": {
+    "zillow_avg_price_sqft": 59.42,
+    "zillow_days_on_market": 128.1,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 3.233,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79a3fffff": {
+    "zillow_avg_price_sqft": 98.24,
+    "zillow_days_on_market": 87.8,
+    "zillow_price_reduction_count": 6
+  },
+  "8844ec7983fffff": {
+    "zillow_avg_price_sqft": 122.69,
+    "zillow_days_on_market": 53.0,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.475,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4521fffff": {
+    "zillow_avg_price_sqft": 194.05,
+    "zillow_days_on_market": 113.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844ec79e3fffff": {
+    "zillow_avg_price_sqft": 135.49,
+    "zillow_days_on_market": 58.7,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec799dfffff": {
+    "zillow_avg_price_sqft": 77.81,
+    "zillow_days_on_market": 81.7,
+    "zillow_price_reduction_count": 11
+  },
+  "8844ec7833fffff": {
+    "zillow_avg_price_sqft": 62.47,
+    "zillow_days_on_market": 2.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 3.7,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79ddfffff": {
+    "zillow_avg_price_sqft": 37.05,
+    "zillow_days_on_market": 146.8,
+    "zillow_price_reduction_count": 5
+  },
+  "8844eeb6b3fffff": {
+    "zillow_avg_price_sqft": 125.9,
+    "zillow_days_on_market": 30.2,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec79ebfffff": {
+    "zillow_avg_price_sqft": 75.17,
+    "zillow_days_on_market": 166.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 3.937,
+    "gmaps_review_count": 11,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b69fffff": {
+    "zillow_avg_price_sqft": 102.8,
+    "zillow_days_on_market": 79.5,
+    "zillow_price_reduction_count": 6,
+    "gmaps_avg_rating": 4.525,
+    "gmaps_review_count": 44,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b29fffff": {
+    "zillow_avg_price_sqft": 97.93,
+    "zillow_days_on_market": 38.2,
+    "zillow_price_reduction_count": 2
+  },
+  "8844ec6b5dfffff": {
+    "zillow_avg_price_sqft": 75.81,
+    "zillow_days_on_market": 58.3,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.744,
+    "gmaps_review_count": 28,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b4bfffff": {
+    "zillow_avg_price_sqft": 44.36,
+    "zillow_days_on_market": 165.3,
+    "zillow_price_reduction_count": 6,
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 2617,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b55fffff": {
+    "zillow_avg_price_sqft": 81.15,
+    "zillow_days_on_market": 183.6,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 34,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b59fffff": {
+    "zillow_avg_price_sqft": 88.44,
+    "zillow_days_on_market": 51.8,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 28,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b51fffff": {
+    "zillow_avg_price_sqft": 69.21,
+    "zillow_days_on_market": 60.7,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 5,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78a9fffff": {
+    "zillow_avg_price_sqft": 56.57,
+    "zillow_days_on_market": 121.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 2.733,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b0dfffff": {
+    "zillow_avg_price_sqft": 86.08,
+    "zillow_days_on_market": 38.8,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.843,
+    "gmaps_review_count": 220,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a4bfffff": {
+    "zillow_avg_price_sqft": 39.73,
+    "zillow_days_on_market": 245.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79d1fffff": {
+    "zillow_avg_price_sqft": 48.76,
+    "zillow_days_on_market": 102.8,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 19,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b13fffff": {
+    "zillow_avg_price_sqft": 63.43,
+    "zillow_days_on_market": 143.0,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 30,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7883fffff": {
+    "zillow_avg_price_sqft": 52.08,
+    "zillow_days_on_market": 9.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec6b09fffff": {
+    "zillow_avg_price_sqft": 101.22,
+    "zillow_days_on_market": 83.5,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.592,
+    "gmaps_review_count": 462,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7999fffff": {
+    "zillow_avg_price_sqft": 70.65,
+    "zillow_days_on_market": 29.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.284,
+    "gmaps_review_count": 77,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79b7fffff": {
+    "zillow_avg_price_sqft": 126.82,
+    "zillow_days_on_market": 95.7,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 4.629,
+    "gmaps_review_count": 62,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb631fffff": {
+    "zillow_avg_price_sqft": 223.21,
+    "zillow_days_on_market": 63.9,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5c7fffff": {
+    "zillow_avg_price_sqft": 131.39,
+    "zillow_days_on_market": 153.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb713fffff": {
+    "zillow_avg_price_sqft": 177.63,
+    "zillow_days_on_market": 205.7,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79bdfffff": {
+    "zillow_avg_price_sqft": 98.12,
+    "zillow_days_on_market": 57.0,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 3.4,
+    "gmaps_review_count": 1198,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7981fffff": {
+    "zillow_avg_price_sqft": 116.73,
+    "zillow_days_on_market": 106.1,
+    "zillow_price_reduction_count": 7
+  },
+  "8844ec7837fffff": {
+    "zillow_avg_price_sqft": 57.67,
+    "zillow_days_on_market": 87.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 8,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb45dfffff": {
+    "zillow_avg_price_sqft": 177.52,
+    "zillow_days_on_market": 57.6,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 397,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb451fffff": {
+    "zillow_avg_price_sqft": 150.66,
+    "zillow_days_on_market": 51.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 2112,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb461fffff": {
+    "zillow_avg_price_sqft": 155.47,
+    "zillow_days_on_market": 404.8,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb5c9fffff": {
+    "zillow_avg_price_sqft": 160.68,
+    "zillow_days_on_market": 19.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.1,
+    "gmaps_review_count": 366,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79d7fffff": {
+    "zillow_avg_price_sqft": 50.21,
+    "zillow_days_on_market": 335.3,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.837,
+    "gmaps_review_count": 29,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79b5fffff": {
+    "zillow_avg_price_sqft": 45.92,
+    "zillow_days_on_market": 175.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 3.8,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7891fffff": {
+    "zillow_avg_price_sqft": 103.29,
+    "zillow_days_on_market": 24.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844ec6b57fffff": {
+    "zillow_avg_price_sqft": 71.91,
+    "zillow_days_on_market": 19.0,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb469fffff": {
+    "zillow_avg_price_sqft": 160.59,
+    "zillow_days_on_market": 75.7,
+    "zillow_price_reduction_count": 7
+  },
+  "8844ec6b0bfffff": {
+    "zillow_avg_price_sqft": 99.95,
+    "zillow_days_on_market": 62.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 7,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb46dfffff": {
+    "zillow_avg_price_sqft": 165.32,
+    "zillow_days_on_market": 116.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 7,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb401fffff": {
+    "zillow_avg_price_sqft": 155.22,
+    "zillow_days_on_market": 96.0,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 23,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb589fffff": {
+    "zillow_avg_price_sqft": 147.23,
+    "zillow_days_on_market": 97.7,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec6b05fffff": {
+    "zillow_avg_price_sqft": 95.88,
+    "zillow_days_on_market": 80.6,
+    "zillow_price_reduction_count": 7,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb455fffff": {
+    "zillow_avg_price_sqft": 162.73,
+    "zillow_days_on_market": 71.5,
+    "zillow_price_reduction_count": 2
+  },
+  "8844ec79b1fffff": {
+    "zillow_avg_price_sqft": 39.06,
+    "zillow_days_on_market": 81.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.189,
+    "gmaps_review_count": 6,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb68dfffff": {
+    "zillow_avg_price_sqft": 182.35,
+    "zillow_days_on_market": 148.5,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb4adfffff": {
+    "zillow_avg_price_sqft": 133.26,
+    "zillow_days_on_market": 123.2,
+    "zillow_price_reduction_count": 4
+  },
+  "8844eeb5ebfffff": {
+    "zillow_avg_price_sqft": 147.7,
+    "zillow_days_on_market": 35.5,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7989fffff": {
+    "zillow_avg_price_sqft": 72.84,
+    "zillow_days_on_market": 207.0,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 17,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb637fffff": {
+    "zillow_avg_price_sqft": 247.55,
+    "zillow_days_on_market": 106.1,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5c3fffff": {
+    "zillow_avg_price_sqft": 159.12,
+    "zillow_days_on_market": 30.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb43dfffff": {
+    "zillow_avg_price_sqft": 161.27,
+    "zillow_days_on_market": 65.7,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb457fffff": {
+    "zillow_avg_price_sqft": 168.41,
+    "zillow_days_on_market": 26.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 3.942,
+    "gmaps_review_count": 1432,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb63bfffff": {
+    "zillow_avg_price_sqft": 165.38,
+    "zillow_days_on_market": 170.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb4b9fffff": {
+    "zillow_avg_price_sqft": 108.49,
+    "zillow_days_on_market": 4.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 1.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb423fffff": {
+    "zillow_avg_price_sqft": 146.87,
+    "zillow_days_on_market": 201.8,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb491fffff": {
+    "zillow_avg_price_sqft": 121.8,
+    "zillow_days_on_market": 191.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.1,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5d5fffff": {
+    "zillow_avg_price_sqft": 136.12,
+    "zillow_days_on_market": 68.5,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb4a1fffff": {
+    "zillow_avg_price_sqft": 135.68,
+    "zillow_days_on_market": 312.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec79edfffff": {
+    "zillow_avg_price_sqft": 65.64,
+    "zillow_days_on_market": 26.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6841fffff": {
+    "zillow_avg_price_sqft": 58.85,
+    "zillow_days_on_market": 64.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 3.0,
+    "gmaps_review_count": 2,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb46bfffff": {
+    "zillow_avg_price_sqft": 169.72,
+    "zillow_days_on_market": 259.5,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec4c95fffff": {
+    "zillow_avg_price_sqft": 173.75,
+    "zillow_days_on_market": 249.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec6b03fffff": {
+    "zillow_avg_price_sqft": 97.17,
+    "zillow_days_on_market": 54.4,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6cdfffff": {
+    "zillow_avg_price_sqft": 123.81,
+    "zillow_days_on_market": 89.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 3.733,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec781dfffff": {
+    "zillow_avg_price_sqft": 83.31,
+    "zillow_days_on_market": 92.3,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb42bfffff": {
+    "zillow_avg_price_sqft": 139.22,
+    "zillow_days_on_market": 265.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 18,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79a5fffff": {
+    "zillow_avg_price_sqft": 116.06,
+    "zillow_days_on_market": 56.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79adfffff": {
+    "zillow_avg_price_sqft": 107.19,
+    "zillow_days_on_market": 52.5,
+    "zillow_price_reduction_count": 6,
+    "gmaps_avg_rating": 1.667,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b49fffff": {
+    "zillow_avg_price_sqft": 87.51,
+    "zillow_days_on_market": 75.7,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 3.953,
+    "gmaps_review_count": 1773,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5d1fffff": {
+    "zillow_avg_price_sqft": 129.38,
+    "zillow_days_on_market": 40.3,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb495fffff": {
+    "zillow_avg_price_sqft": 127.1,
+    "zillow_days_on_market": 31.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb4d9fffff": {
+    "zillow_avg_price_sqft": 112.92,
+    "zillow_days_on_market": 23.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec7857fffff": {
+    "zillow_avg_price_sqft": 98.39,
+    "zillow_days_on_market": 129.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec6a25fffff": {
+    "zillow_avg_price_sqft": 61.46,
+    "zillow_days_on_market": 53.0,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb4cbfffff": {
+    "zillow_avg_price_sqft": 106.79,
+    "zillow_days_on_market": 12.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b67fffff": {
+    "zillow_avg_price_sqft": 111.88,
+    "zillow_days_on_market": 49.9,
+    "zillow_price_reduction_count": 7,
+    "gmaps_avg_rating": 4.757,
+    "gmaps_review_count": 66,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79cdfffff": {
+    "zillow_avg_price_sqft": 62.08,
+    "zillow_days_on_market": 138.5,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb499fffff": {
+    "zillow_avg_price_sqft": 114.12,
+    "zillow_days_on_market": 12.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4c49fffff": {
+    "zillow_avg_price_sqft": 187.99,
+    "zillow_days_on_market": 50.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb5d7fffff": {
+    "zillow_avg_price_sqft": 123.14,
+    "zillow_days_on_market": 94.7,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb4bdfffff": {
+    "zillow_avg_price_sqft": 99.81,
+    "zillow_days_on_market": 250.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 19,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4c7fffff": {
+    "zillow_avg_price_sqft": 145.5,
+    "zillow_days_on_market": 166.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78a7fffff": {
+    "zillow_avg_price_sqft": 29.66,
+    "zillow_days_on_market": 27.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 36,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7913fffff": {
+    "zillow_avg_price_sqft": 58.89,
+    "zillow_days_on_market": 213.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb48bfffff": {
+    "zillow_avg_price_sqft": 126.56,
+    "zillow_days_on_market": 46.8,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4e7fffff": {
+    "zillow_avg_price_sqft": 159.51,
+    "zillow_days_on_market": 52.2,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79dbfffff": {
+    "zillow_avg_price_sqft": 57.89,
+    "zillow_days_on_market": 6.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb409fffff": {
+    "zillow_avg_price_sqft": 135.9,
+    "zillow_days_on_market": 52.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec6a49fffff": {
+    "zillow_avg_price_sqft": 32.94,
+    "zillow_days_on_market": 691.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec799bfffff": {
+    "zillow_avg_price_sqft": 32.36,
+    "zillow_days_on_market": 17.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6dbfffff": {
+    "zillow_avg_price_sqft": 99.02,
+    "zillow_days_on_market": 178.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 3.723,
+    "gmaps_review_count": 743,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79c3fffff": {
+    "zillow_avg_price_sqft": 65.76,
+    "zillow_days_on_market": 74.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.85,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb639fffff": {
+    "zillow_avg_price_sqft": 155.16,
+    "zillow_days_on_market": 28.1,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb453fffff": {
+    "zillow_avg_price_sqft": 174.18,
+    "zillow_days_on_market": 33.0,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 4.325,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7995fffff": {
+    "zillow_avg_price_sqft": 82.6,
+    "zillow_days_on_market": 84.0,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 15,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b5bfffff": {
+    "zillow_avg_price_sqft": 60.04,
+    "zillow_days_on_market": 72.7,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec78b1fffff": {
+    "zillow_avg_price_sqft": 52.5,
+    "zillow_days_on_market": 146.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b4dfffff": {
+    "zillow_avg_price_sqft": 76.27,
+    "zillow_days_on_market": 122.0,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.1,
+    "gmaps_review_count": 11,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b47fffff": {
+    "zillow_avg_price_sqft": 97.93,
+    "zillow_days_on_market": 81.3,
+    "zillow_price_reduction_count": 6,
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 31,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb43bfffff": {
+    "zillow_avg_price_sqft": 220.68,
+    "zillow_days_on_market": 151.0,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.248,
+    "gmaps_review_count": 3611,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6869fffff": {
+    "zillow_avg_price_sqft": 51.03,
+    "zillow_days_on_market": 521.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79b3fffff": {
+    "zillow_avg_price_sqft": 107.14,
+    "zillow_days_on_market": 19.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 142,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b11fffff": {
+    "zillow_avg_price_sqft": 69.51,
+    "zillow_days_on_market": 215.7,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec686bfffff": {
+    "zillow_avg_price_sqft": 45.92,
+    "zillow_days_on_market": 172.7,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb633fffff": {
+    "zillow_avg_price_sqft": 173.95,
+    "zillow_days_on_market": 31.1,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb699fffff": {
+    "zillow_avg_price_sqft": 146.74,
+    "zillow_days_on_market": 82.3,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 36,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6845fffff": {
+    "zillow_avg_price_sqft": 38.38,
+    "zillow_days_on_market": 383.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 18,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4a9fffff": {
+    "zillow_avg_price_sqft": 160.07,
+    "zillow_days_on_market": 23.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb42dfffff": {
+    "zillow_avg_price_sqft": 197.05,
+    "zillow_days_on_market": 124.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844eeb413fffff": {
+    "zillow_avg_price_sqft": 125.09,
+    "zillow_days_on_market": 77.5,
+    "zillow_price_reduction_count": 5
+  },
+  "8844eeb717fffff": {
+    "zillow_avg_price_sqft": 158.42,
+    "zillow_days_on_market": 44.5,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec4d99fffff": {
+    "zillow_avg_price_sqft": 176.87,
+    "zillow_days_on_market": 3.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844eeb40bfffff": {
+    "zillow_avg_price_sqft": 134.68,
+    "zillow_days_on_market": 103.1,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb615fffff": {
+    "zillow_avg_price_sqft": 150.54,
+    "zillow_days_on_market": 60.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec79e5fffff": {
+    "zillow_avg_price_sqft": 78.34,
+    "zillow_days_on_market": 82.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 500,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb683fffff": {
+    "zillow_avg_price_sqft": 119.62,
+    "zillow_days_on_market": 42.3,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 8,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb435fffff": {
+    "zillow_avg_price_sqft": 193.46,
+    "zillow_days_on_market": 77.2,
+    "zillow_price_reduction_count": 4,
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb439fffff": {
+    "zillow_avg_price_sqft": 154.22,
+    "zillow_days_on_market": 95.3,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 20,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79d9fffff": {
+    "zillow_avg_price_sqft": 78.06,
+    "zillow_days_on_market": 31.0,
+    "zillow_price_reduction_count": 2
+  },
+  "8844ec79abfffff": {
+    "zillow_avg_price_sqft": 118.74,
+    "zillow_days_on_market": 89.7,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb691fffff": {
+    "zillow_avg_price_sqft": 161.95,
+    "zillow_days_on_market": 73.0,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.382,
+    "gmaps_review_count": 1036,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79d3fffff": {
+    "zillow_avg_price_sqft": 70.69,
+    "zillow_days_on_market": 144.5,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb6a7fffff": {
+    "zillow_avg_price_sqft": 117.14,
+    "zillow_days_on_market": 302.7,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb411fffff": {
+    "zillow_avg_price_sqft": 121.67,
+    "zillow_days_on_market": 245.7,
+    "zillow_price_reduction_count": 5,
+    "gmaps_avg_rating": 4.818,
+    "gmaps_review_count": 108,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78e7fffff": {
+    "zillow_avg_price_sqft": 41.67,
+    "zillow_days_on_market": 64.0,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb49dfffff": {
+    "zillow_avg_price_sqft": 118.93,
+    "zillow_days_on_market": 2.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb4edfffff": {
+    "zillow_avg_price_sqft": 135.06,
+    "zillow_days_on_market": 10.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 3.95,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb497fffff": {
+    "zillow_avg_price_sqft": 137.21,
+    "zillow_days_on_market": 117.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844ec6323fffff": {
+    "zillow_avg_price_sqft": 47.37,
+    "zillow_days_on_market": 26.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844ec6b1dfffff": {
+    "zillow_avg_price_sqft": 97.32,
+    "zillow_days_on_market": 14.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 30,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5dbfffff": {
+    "zillow_avg_price_sqft": 153.32,
+    "zillow_days_on_market": 46.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 10,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b6bfffff": {
+    "zillow_avg_price_sqft": 83.31,
+    "zillow_days_on_market": 55.3,
+    "zillow_price_reduction_count": 3,
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 2390,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb427fffff": {
+    "zillow_avg_price_sqft": 160.55,
+    "zillow_days_on_market": 58.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7b69fffff": {
+    "zillow_avg_price_sqft": 254.35,
+    "zillow_days_on_market": 7.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844eeb68bfffff": {
+    "zillow_avg_price_sqft": 106.12,
+    "zillow_days_on_market": 71.7,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4c1fffff": {
+    "zillow_avg_price_sqft": 132.96,
+    "zillow_days_on_market": 31.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec6b63fffff": {
+    "zillow_avg_price_sqft": 128.51,
+    "zillow_days_on_market": 107.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6311fffff": {
+    "zillow_avg_price_sqft": 89.29,
+    "zillow_days_on_market": 59.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844eeb465fffff": {
+    "zillow_avg_price_sqft": 137.11,
+    "zillow_days_on_market": 220.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec7993fffff": {
+    "zillow_avg_price_sqft": 289.02,
+    "zillow_days_on_market": 142.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.741,
+    "gmaps_review_count": 50,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb41bfffff": {
+    "zillow_avg_price_sqft": 148.61,
+    "zillow_days_on_market": 106.5,
+    "zillow_price_reduction_count": 2
+  },
+  "8844ec7935fffff": {
+    "zillow_avg_price_sqft": 91.02,
+    "zillow_days_on_market": 23.5,
+    "zillow_price_reduction_count": 2
+  },
+  "8844ec6b65fffff": {
+    "zillow_avg_price_sqft": 117.84,
+    "zillow_days_on_market": 157.3,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec7925fffff": {
+    "zillow_avg_price_sqft": 15.35,
+    "zillow_days_on_market": 81.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec7811fffff": {
+    "zillow_avg_price_sqft": 83.94,
+    "zillow_days_on_market": 190.0,
+    "zillow_price_reduction_count": 2
+  },
+  "8844ec7815fffff": {
+    "zillow_avg_price_sqft": 96.2,
+    "zillow_days_on_market": 211.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec792bfffff": {
+    "zillow_avg_price_sqft": 63.89,
+    "zillow_days_on_market": 84.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4eabfffff": {
+    "zillow_avg_price_sqft": 131.51,
+    "zillow_days_on_market": 5.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb6e7fffff": {
+    "zillow_avg_price_sqft": 105.5,
+    "zillow_days_on_market": 54.7,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb6adfffff": {
+    "zillow_avg_price_sqft": 102.04,
+    "zillow_days_on_market": 12.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.574,
+    "gmaps_review_count": 114,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb417fffff": {
+    "zillow_avg_price_sqft": 128.96,
+    "zillow_days_on_market": 23.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.342,
+    "gmaps_review_count": 1514,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b17fffff": {
+    "zillow_avg_price_sqft": 124.92,
+    "zillow_days_on_market": 79.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec7907fffff": {
+    "zillow_avg_price_sqft": 115.87,
+    "zillow_days_on_market": 36.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7927fffff": {
+    "zillow_avg_price_sqft": 85.79,
+    "zillow_days_on_market": 129.3,
+    "zillow_price_reduction_count": 3
+  },
+  "8844eeb695fffff": {
+    "zillow_avg_price_sqft": 123.27,
+    "zillow_days_on_market": 55.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.838,
+    "gmaps_review_count": 20,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79a7fffff": {
+    "zillow_avg_price_sqft": 105.95,
+    "zillow_days_on_market": 110.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 678,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb481fffff": {
+    "zillow_avg_price_sqft": 86.64,
+    "zillow_days_on_market": 206.7,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec7abdfffff": {
+    "zillow_avg_price_sqft": 23.32,
+    "zillow_days_on_market": 59.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844eeb483fffff": {
+    "zillow_avg_price_sqft": 112.01,
+    "zillow_days_on_market": 158.2,
+    "zillow_price_reduction_count": 3
+  },
+  "8844ec7903fffff": {
+    "zillow_avg_price_sqft": 52.87,
+    "zillow_days_on_market": 41.5,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb4dbfffff": {
+    "zillow_avg_price_sqft": 91.07,
+    "zillow_days_on_market": 79.5,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 30,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b2bfffff": {
+    "zillow_avg_price_sqft": 118.44,
+    "zillow_days_on_market": 97.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79bbfffff": {
+    "zillow_avg_price_sqft": 36.69,
+    "zillow_days_on_market": 73.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.805,
+    "gmaps_review_count": 43,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6c7fffff": {
+    "zillow_avg_price_sqft": 110.32,
+    "zillow_days_on_market": 16.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 2.3,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7ab9fffff": {
+    "zillow_avg_price_sqft": 41.27,
+    "zillow_days_on_market": 11.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 14,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7987fffff": {
+    "zillow_avg_price_sqft": 124.3,
+    "zillow_days_on_market": 117.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec793dfffff": {
+    "zillow_avg_price_sqft": 81.05,
+    "zillow_days_on_market": 52.5,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb4ddfffff": {
+    "zillow_avg_price_sqft": 82.34,
+    "zillow_days_on_market": 17.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 2.05,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7923fffff": {
+    "zillow_avg_price_sqft": 83.07,
+    "zillow_days_on_market": 13.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6b7fffff": {
+    "zillow_avg_price_sqft": 82.35,
+    "zillow_days_on_market": 65.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb65dfffff": {
+    "zillow_avg_price_sqft": 218.88,
+    "zillow_days_on_market": 58.0,
+    "zillow_price_reduction_count": 0
+  },
+  "8844eeb5d3fffff": {
+    "zillow_avg_price_sqft": 123.44,
+    "zillow_days_on_market": 14.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb6a1fffff": {
+    "zillow_avg_price_sqft": 95.72,
+    "zillow_days_on_market": 89.5,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb6cbfffff": {
+    "zillow_avg_price_sqft": 59.01,
+    "zillow_days_on_market": 52.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.612,
+    "gmaps_review_count": 11,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec793bfffff": {
+    "zillow_avg_price_sqft": 104.26,
+    "zillow_days_on_market": 65.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4d3fffff": {
+    "zillow_avg_price_sqft": 108.92,
+    "zillow_days_on_market": 163.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec7895fffff": {
+    "zillow_avg_price_sqft": 33.95,
+    "zillow_days_on_market": 304.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.866,
+    "gmaps_review_count": 19,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb45bfffff": {
+    "zillow_avg_price_sqft": 147.53,
+    "zillow_days_on_market": 98.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec7915fffff": {
+    "zillow_avg_price_sqft": 83.48,
+    "zillow_days_on_market": 75.5,
+    "zillow_price_reduction_count": 2
+  },
+  "8844eeb6d9fffff": {
+    "zillow_avg_price_sqft": 82.33,
+    "zillow_days_on_market": 24.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6947fffff": {
+    "zillow_avg_price_sqft": 82.64,
+    "zillow_days_on_market": 125.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6a3fffff": {
+    "zillow_avg_price_sqft": 95.72,
+    "zillow_days_on_market": 60.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb6d3fffff": {
+    "zillow_avg_price_sqft": 148.92,
+    "zillow_days_on_market": 414.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6b5fffff": {
+    "zillow_avg_price_sqft": 125.08,
+    "zillow_days_on_market": 2.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.913,
+    "gmaps_review_count": 90,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6303fffff": {
+    "zillow_avg_price_sqft": 88.4,
+    "zillow_days_on_market": 22.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb693fffff": {
+    "zillow_avg_price_sqft": 107.59,
+    "zillow_days_on_market": 32.0,
+    "zillow_price_reduction_count": 2,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 22,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7997fffff": {
+    "zillow_avg_price_sqft": 36.03,
+    "zillow_days_on_market": 300.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 156,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b53fffff": {
+    "zillow_avg_price_sqft": 88.14,
+    "zillow_days_on_market": 138.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb48dfffff": {
+    "zillow_avg_price_sqft": 120.62,
+    "zillow_days_on_market": 20.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 3.85,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7933fffff": {
+    "zillow_avg_price_sqft": 71.51,
+    "zillow_days_on_market": 27.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844ec6849fffff": {
+    "zillow_avg_price_sqft": 38.01,
+    "zillow_days_on_market": 25.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 2,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb489fffff": {
+    "zillow_avg_price_sqft": 112.61,
+    "zillow_days_on_market": 79.0,
+    "zillow_price_reduction_count": 1,
+    "gmaps_avg_rating": 4.784,
+    "gmaps_review_count": 93,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78a1fffff": {
+    "zillow_avg_price_sqft": 35.43,
+    "zillow_days_on_market": 4.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 102,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6a5fffff": {
+    "zillow_avg_price_sqft": 124.25,
+    "zillow_days_on_market": 52.0,
+    "zillow_price_reduction_count": 1
+  },
+  "8844eeb6c9fffff": {
+    "zillow_avg_price_sqft": 91.82,
+    "zillow_days_on_market": 28.0,
+    "zillow_price_reduction_count": 0,
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 22,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6c5fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeadddfffff": {
+    "gmaps_avg_rating": 3.9,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb49bfffff": {
+    "gmaps_avg_rating": 3.9,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4d1fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 190,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a95fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a6dfffff": {
+    "gmaps_avg_rating": 4.64,
+    "gmaps_review_count": 116,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a61fffff": {
+    "gmaps_avg_rating": 4.664,
+    "gmaps_review_count": 647,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61dbfffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61a1fffff": {
+    "gmaps_avg_rating": 3.993,
+    "gmaps_review_count": 2614,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d363fffff": {
+    "gmaps_avg_rating": 4.867,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b15fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec69a5fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ee06b3fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a11fffff": {
+    "gmaps_avg_rating": 1.6,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7b15fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 15,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f55fffff": {
+    "gmaps_avg_rating": 4.279,
+    "gmaps_review_count": 287,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a63fffff": {
+    "gmaps_avg_rating": 2.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6bdfffff": {
+    "gmaps_avg_rating": 4.421,
+    "gmaps_review_count": 1195,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e89301fffff": {
+    "gmaps_avg_rating": 4.859,
+    "gmaps_review_count": 52,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb697fffff": {
+    "gmaps_avg_rating": 4.659,
+    "gmaps_review_count": 92,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6c3fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 29,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea69bfffff": {
+    "gmaps_avg_rating": 3.6,
+    "gmaps_review_count": 560,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a69fffff": {
+    "gmaps_avg_rating": 4.628,
+    "gmaps_review_count": 1975,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4e3fffff": {
+    "gmaps_avg_rating": 3.875,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60abfffff": {
+    "gmaps_avg_rating": 4.771,
+    "gmaps_review_count": 128,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6c1fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 11,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61abfffff": {
+    "gmaps_avg_rating": 4.51,
+    "gmaps_review_count": 3153,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4d5fffff": {
+    "gmaps_avg_rating": 3.938,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a6bfffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 1022,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4ca9fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 11,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb611fffff": {
+    "gmaps_avg_rating": 1.7,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb687fffff": {
+    "gmaps_avg_rating": 3.7,
+    "gmaps_review_count": 140,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f59fffff": {
+    "gmaps_avg_rating": 4.1,
+    "gmaps_review_count": 1279,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6187fffff": {
+    "gmaps_avg_rating": 3.833,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6907fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ee31d1fffff": {
+    "gmaps_avg_rating": 3.0,
+    "gmaps_review_count": 2,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eead11fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f6dfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 14,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea131fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeac23fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 2,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f5bfffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a65fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 21,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6185fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4e9fffff": {
+    "gmaps_avg_rating": 3.884,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeacedfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 2,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb511fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61a5fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6ea1fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d36bfffff": {
+    "gmaps_avg_rating": 4.167,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec694bfffff": {
+    "gmaps_avg_rating": 2.9,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78b7fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a41fffff": {
+    "gmaps_avg_rating": 4.1,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea661fffff": {
+    "gmaps_avg_rating": 2.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a27fffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea663fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79e1fffff": {
+    "gmaps_avg_rating": 2.1,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78edfffff": {
+    "gmaps_avg_rating": 3.7,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec44d7fffff": {
+    "gmaps_avg_rating": 3.3,
+    "gmaps_review_count": 142,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61b7fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 19,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb433fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6b1fffff": {
+    "gmaps_avg_rating": 4.135,
+    "gmaps_review_count": 4749,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb539fffff": {
+    "gmaps_avg_rating": 4.233,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb681fffff": {
+    "gmaps_avg_rating": 4.473,
+    "gmaps_review_count": 66,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec781bfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 8,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61b3fffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6ddfffff": {
+    "gmaps_avg_rating": 4.35,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78e1fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d345fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 11,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6085fffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 12,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6183fffff": {
+    "gmaps_avg_rating": 4.325,
+    "gmaps_review_count": 1335,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7a31fffff": {
+    "gmaps_avg_rating": 4.1,
+    "gmaps_review_count": 1091,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f07fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 8,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7a3bfffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 12,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f69fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60a5fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 83,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a0dfffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f3dfffff": {
+    "gmaps_avg_rating": 4.862,
+    "gmaps_review_count": 49,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5cbfffff": {
+    "gmaps_avg_rating": 3.687,
+    "gmaps_review_count": 4532,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7813fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5cdfffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea6ddfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d34dfffff": {
+    "gmaps_avg_rating": 3.6,
+    "gmaps_review_count": 361,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b3dfffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a4dfffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 24,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f5dfffff": {
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 1567,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea1c1fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 59,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea23bfffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f39fffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60a7fffff": {
+    "gmaps_avg_rating": 4.488,
+    "gmaps_review_count": 86,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6ee5fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec44e5fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea4b9fffff": {
+    "gmaps_avg_rating": 1.125,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7017fffff": {
+    "gmaps_avg_rating": 3.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4527fffff": {
+    "gmaps_avg_rating": 3.9,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d30bfffff": {
+    "gmaps_avg_rating": 2.3,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4d7fffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 62,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60e9fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 20,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6abbfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6b9fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec630bfffff": {
+    "gmaps_avg_rating": 4.619,
+    "gmaps_review_count": 173,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb689fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec72e7fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60adfffff": {
+    "gmaps_avg_rating": 2.6,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7b01fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea499fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a67fffff": {
+    "gmaps_avg_rating": 3.9,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78b3fffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d149fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec69a7fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 1249,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6157fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeac19fffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 8,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea461fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 9,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f05fffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 25,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d323fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 9,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea269fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 3,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61d3fffff": {
+    "gmaps_avg_rating": 4.86,
+    "gmaps_review_count": 38,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a59fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 7,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d309fffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 97,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec616bfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec0d6dfffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f01fffff": {
+    "gmaps_avg_rating": 4.495,
+    "gmaps_review_count": 42,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78e9fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 35,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d327fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 156,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea62dfffff": {
+    "gmaps_avg_rating": 3.8,
+    "gmaps_review_count": 30,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4405fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea6c7fffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec71abfffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d305fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7a87fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea2d3fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7901fffff": {
+    "gmaps_avg_rating": 3.8,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6e51fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6e1fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec616dfffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea463fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6165fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6181fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 10,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec79cbfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6ae5fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb415fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea2d1fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea423fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5edfffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 45,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeac39fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60a9fffff": {
+    "gmaps_avg_rating": 4.878,
+    "gmaps_review_count": 54,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea697fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d301fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec0d69fffff": {
+    "gmaps_avg_rating": 2.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61d7fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 9,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea003fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 3,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61bbfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 44,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d20bfffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 29,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d303fffff": {
+    "gmaps_avg_rating": 2.5,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6e2dfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7819fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6d1fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb721fffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6199fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61b5fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb517fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 21,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78adfffff": {
+    "gmaps_avg_rating": 1.567,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea203fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec0895fffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60b7fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 15,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec44edfffff": {
+    "gmaps_avg_rating": 0.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60edfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 29,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb613fffff": {
+    "gmaps_avg_rating": 4.831,
+    "gmaps_review_count": 213,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec09bbfffff": {
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a2dfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 20,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78ebfffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 39,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb425fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 30,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea417fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 34,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d261fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 11,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea213fffff": {
+    "gmaps_avg_rating": 4.847,
+    "gmaps_review_count": 27,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a8bfffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 33,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb6e9fffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 31,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4e35fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 7,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec71c3fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 6,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec60e3fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 30,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d30dfffff": {
+    "gmaps_avg_rating": 4.778,
+    "gmaps_review_count": 53,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec790bfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 6,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6a97fffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 20,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78d5fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 9,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb155fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 5,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6037fffff": {
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 5,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb75bfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec68d7fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 70,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec65abfffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 20,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb4a3fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 16,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeacdbfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 22,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7899fffff": {
+    "gmaps_avg_rating": 4.536,
+    "gmaps_review_count": 29,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d357fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 17,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea065fffff": {
+    "gmaps_avg_rating": 4.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4535fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb40dfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 30,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb429fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 23,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6d21fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 22,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d325fffff": {
+    "gmaps_avg_rating": 4.717,
+    "gmaps_review_count": 57,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec4415fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 2,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec680dfffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 15,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea403fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 20,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec788bfffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6b35fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 10,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7963fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 33,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6ad3fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 45,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6e41fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 16,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec691bfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 7,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec618bfffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 46,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6305fffff": {
+    "gmaps_avg_rating": 4.2,
+    "gmaps_review_count": 12,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec619bfffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 9,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f23fffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 15,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6f53fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 7,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec610bfffff": {
+    "gmaps_avg_rating": 3.935,
+    "gmaps_review_count": 18,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6087fffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 26,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61c7fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 90,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec61c3fffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 27,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8da41fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 33,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6e25fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 16,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea639fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 10,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5c1fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 40,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea2b5fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 1,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec44c3fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6949fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 22,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea25dfffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 14,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7885fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 2,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb597fffff": {
+    "gmaps_avg_rating": 3.9,
+    "gmaps_review_count": 11,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d15dfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 4,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea6edfffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 14,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea693fffff": {
+    "gmaps_avg_rating": 4.7,
+    "gmaps_review_count": 35,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec0893fffff": {
+    "gmaps_avg_rating": 3.7,
+    "gmaps_review_count": 3,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea71bfffff": {
+    "gmaps_avg_rating": 4.5,
+    "gmaps_review_count": 10,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb505fffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 0,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eea6e1fffff": {
+    "gmaps_avg_rating": 4.4,
+    "gmaps_review_count": 7,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec68dbfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 6,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb195fffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 8,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec7a33fffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 3,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec78d3fffff": {
+    "gmaps_avg_rating": 4.9,
+    "gmaps_review_count": 8,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb5a9fffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 3,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec6325fffff": {
+    "gmaps_avg_rating": 4.6,
+    "gmaps_review_count": 16,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844eeb53bfffff": {
+    "gmaps_avg_rating": 5.0,
+    "gmaps_review_count": 15,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844e8d043fffff": {
+    "gmaps_avg_rating": 4.3,
+    "gmaps_review_count": 3,
+    "gmaps_permanently_closed_count": 0
+  },
+  "8844ec619dfffff": {
+    "gmaps_avg_rating": 4.8,
+    "gmaps_review_count": 10,
+    "gmaps_permanently_closed_count": 0
+  }
+}
